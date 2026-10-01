@@ -10,7 +10,7 @@
       <node id="2" name="R2" type="iol" template="iol" image="L3-ADVENTERPRISEK9-M-15.4-2T.bin" ethernet="1" nvram="1024" ram="1024" serial="0" console="" delay="0" icon="Router-2D-Gen-White-S.svg" config="0" left="660" top="321">
         <interface id="0" name="e0/0" type="ethernet" network_id="1"/>
       </node>
-      <node id="3" name="R3" type="iol" template="iol" image="L3-ADVENTERPRISEK9-M-15.4-2T.bin" ethernet="1" nvram="1024" ram="1024" serial="0" console="" delay="0" icon="Router-2D-Gen-White-S.svg" config="0" left="783" top="480">
+      <node id="3" name="R3" type="iol" template="iol" image="L3-ADVENTERPRISEK9-M-15.4-2T.bin" ethernet="1" nvram="1024" ram="1024" serial="0" console="" delay="0" icon="Router-2D-Gen-White-S.svg" config="1" left="783" top="480">
         <interface id="0" name="e0/0" type="ethernet" network_id="3"/>
       </node>
       <node id="4" name="R4" type="iol" template="iol" image="L3-ADVENTERPRISEK9-M-15.4-2T.bin" ethernet="1" nvram="1024" ram="1024" serial="0" console="" delay="0" icon="Router-2D-Gen-White-S.svg" config="0" left="891" top="309">
